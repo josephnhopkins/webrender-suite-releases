@@ -10,4 +10,4 @@ This repository holds no source code — only the released builds: one GitHub Re
 with the download as its asset. A new version is cut when one of the programs it installs has a
 new release.
 
-Windows is at 0.1.0.
+Windows is at 0.1.1.
